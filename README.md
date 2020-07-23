@@ -1,4 +1,9 @@
-### Hi there 👋
+## About me -
+I am an Final Year IT Engineering Student at Thadomal Shahani Engineering College. I love Data Science!
+
+## Connect with me on -
+• LinkedIn Profile: _https://www.linkedin.com/in/anujkvyas_
+• Kaggle Profile: _https://www.kaggle.com/anujvyas_
 
 <!--
 **anujvyas/anujvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
