@@ -2,7 +2,7 @@
 I am an Final Year IT Engineering Student at Thadomal Shahani Engineering College. I love Data Science!
 
 ## Connect with me
-• LinkedIn Profile: _https://www.linkedin.com/in/anujkvyas_
+• LinkedIn Profile: _https://www.linkedin.com/in/anujkvyas_<br/>
 • Kaggle Profile: _https://www.kaggle.com/anujvyas_
 
 <!--
