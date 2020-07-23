@@ -1,4 +1,3 @@
-## About me
 I am an Final Year IT Engineering Student at Thadomal Shahani Engineering College. I love Data Science and Machine Learning!
 
 ## Connect with me
