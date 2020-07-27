@@ -1,3 +1,8 @@
+## Hey there, I'm Anuj!
+- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
+- 👯 I’m looking to collaborate on **Data Science** and **Machine Learning** domains.
+
+
 ## Connect with me
 🔗 LinkedIn: https://www.linkedin.com/in/anujkvyas<br/>
 🔗 Kaggle: https://www.kaggle.com/anujvyas
