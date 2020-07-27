@@ -5,6 +5,6 @@
 - ⚡ Fun fact: Here are my **GitHub Stats**.<br/><br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=anujvyas&show_icons=true)
 
-## Connect with me
-🔗 LinkedIn: https://www.linkedin.com/in/anujkvyas<br/>
-🔗 Kaggle: https://www.kaggle.com/anujvyas
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/anujkvyas<br/>
+- Kaggle: https://www.kaggle.com/anujvyas
