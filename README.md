@@ -8,6 +8,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=anujvyas&show_icons=true)
 
 ## Connect me on:
-- Email: mailto:anujvyas.work@gmail.com
+- Email: anujvyas.work@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anujkvyas
 - Kaggle: https://www.kaggle.com/anujvyas
