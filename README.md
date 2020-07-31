@@ -11,3 +11,5 @@
 - Email: anujvyas.work@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anujkvyas
 - Kaggle: https://www.kaggle.com/anujvyas
+
+_Note: Please do not spam on the above mentioned email/profiles._
