@@ -9,8 +9,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=anujvyas&show_icons=true)
 
 ## Connect me on:
-- <img width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg' /> Email: anujvyas.work@gmail.com
+- <img width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg' /> Medium: https://medium.com/@anujvyas
 - <img width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg' /> LinkedIn: https://www.linkedin.com/in/anujkvyas
 - <img width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg' /> Kaggle: https://www.kaggle.com/anujvyas
-- <img width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg' /> Medium: https://medium.com/@anujvyas
+- <img width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg' /> Email: anujvyas.work@gmail.com
 _**Note:** Please **do not spam** on the above mentioned email/profiles._
