@@ -9,8 +9,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=anujvyas&show_icons=true)
 
 ## Connect me on:
-- Medium: https://medium.com/@anujvyas
+- Email: anujvyas.work@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anujkvyas
 - Kaggle: https://www.kaggle.com/anujvyas
-- Email: anujvyas.work@gmail.com<br/>
+- Medium: https://medium.com/@anujvyas
+
 _**Note:** Please **do not spam** on the above mentioned email/profiles._
