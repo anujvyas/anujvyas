@@ -11,7 +11,7 @@
 ```python
 def skills_of_anuj():
   languages_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML': 'Intermidiate', 'CSS': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'flask']
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask']
   cloud_architecture = ['heroku']
   kaggle_competitions = 3
   active_blogger = True
