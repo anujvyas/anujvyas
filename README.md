@@ -9,8 +9,8 @@
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
-def skills_of_anuj():
-  languages_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML': 'Intermidiate', 'CSS': 'Beginner'}
+def anuj():
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
   cloud_architecture = ['heroku']
   kaggle_competitions = 3
