@@ -19,9 +19,8 @@ def anuj():
 ```
 
 ## Connect me on:
-- Email: anujvyas.work@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anujkvyas
 - Kaggle: https://www.kaggle.com/anujvyas
 - Medium: https://medium.com/@anujvyas
 
-_**Note:** Please **do not spam** on the above mentioned email/profiles._
+_**Note:** Please **do not spam** on the above mentioned profiles._
